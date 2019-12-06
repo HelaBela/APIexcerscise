@@ -1,0 +1,11 @@
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/bin/Debug/netcoreapp2.2/APIwithoutMVC.deps.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/bin/Debug/netcoreapp2.2/APIwithoutMVC.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/bin/Debug/netcoreapp2.2/APIwithoutMVC.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/bin/Debug/netcoreapp2.2/APIwithoutMVC.dll
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/bin/Debug/netcoreapp2.2/APIwithoutMVC.pdb
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.dll
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/Debug/netcoreapp2.2/APIwithoutMVC.pdb

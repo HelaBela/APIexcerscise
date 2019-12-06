@@ -1,0 +1,14 @@
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/Helena.deps.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/Helena.runtimeconfig.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/Helena.runtimeconfig.dev.json
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/Helena.dll
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/Helena.pdb
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/APIwithoutMVC.dll
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/bin/Debug/netcoreapp2.2/APIwithoutMVC.pdb
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.csprojAssemblyReference.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.csproj.CoreCompileInputs.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.AssemblyInfoInputs.cache
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.AssemblyInfo.cs
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.csproj.CopyComplete
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.dll
+/Users/helena.franczak/RiderProjects/APIwithoutMVC/Helena/obj/Debug/netcoreapp2.2/Helena.pdb

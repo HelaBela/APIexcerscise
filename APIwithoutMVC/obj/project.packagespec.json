@@ -1,0 +1,58 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/APIwithoutMVC.csproj",
+    "projectName": "APIwithoutMVC",
+    "projectPath": "/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/APIwithoutMVC.csproj",
+    "outputPath": "/Users/helena.franczak/RiderProjects/APIwithoutMVC/APIwithoutMVC/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AspNetWebApi.SelfHost": {
+          "target": "Package",
+          "version": "[4.0.20710, )"
+        },
+        "Microsoft.AspNet.WebApi.OwinSelfHost": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.AspNet.WebApi.SelfHost": {
+          "target": "Package",
+          "version": "[5.2.7, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
