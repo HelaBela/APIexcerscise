@@ -4,7 +4,7 @@ namespace APIwithoutMVC
 {
     public class Person
     {
-        public string Name { get; set; }
+        private string Name { get; set; }
         public DateTime Today { get; set; }
 
         public Person GetPersonDetails()

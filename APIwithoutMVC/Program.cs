@@ -19,11 +19,10 @@ namespace APIwithoutMVC
             while (true)
             {
                 
-                //after second requests it stops here
+                //after second requests it stops here , becasue it is synch
                 var context = server.GetContext(); //  HttpListenerContext object - allows to access request and response. Provides access to the request and response objects
                 
-                var httpListenerRequest = context.Request;//HttpListenerRequest object - accesses the incoming requests and response
-
+                var httpListenerRequest = context.Request;//HttpListenerRequest object - accesses the incoming requests and respons
                 Console.WriteLine($"{httpListenerRequest.HttpMethod} {httpListenerRequest.Url}");
                 var person = new Person().GetPersonDetails();
                
@@ -57,6 +56,8 @@ namespace APIwithoutMVC
                 //obtaining the response
                 context.Response.ContentLength64 = buffer.Length;
                 context.Response.OutputStream.Write(buffer, 0, buffer.Length); // forces send of response
+                
+               
 
             }
         }
